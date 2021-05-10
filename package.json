@@ -1,0 +1,22 @@
+{
+  "name": "repo-template",
+  "version": "1.0.0",
+  "description": "Skeleton Repo Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dMacGit/repo-template.git"
+  },
+  "keywords": [
+    "Template"
+  ],
+  "author": "dMacGit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dMacGit/repo-template/issues"
+  },
+  "homepage": "https://github.com/dMacGit/repo-template#readme"
+}
